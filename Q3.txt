@@ -5,7 +5,6 @@
 -Para instalar como dependencia de desarrollo: yarn add nombre_del_paquete --dev.
 -Yarn creará un archivo yarn.lock para mantener las versiones de los paquetes instalados.
 
-
 —¿Cómo es que se borran paquetes con yarn?
 -Abre una terminal en tu proyecto.
 -Ejecuta yarn remove nombre_del_paquete para eliminar un paquete.
